@@ -1,6 +1,6 @@
 import zipfile
-print("Written by notaglitch, just for fun. ")
-print("I am learning so don't judge and this script may be simple but it does the job. ")
+#Written by notaglitch, just for fun.
+#I am learning so don't judge and this script may be simple but it does the job.
 source = input("Enter the file name here: ")
 wordl = input("Enter the wordist name: (with the format like: .txt) ")
 password = ""
